@@ -41,6 +41,7 @@ def getMBTI():
                     btns[1].click()
 
             result = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'type__23j8y'))).text
+            print(test_list + [result])
             with open('result.csv', 'a') as f:
                 csv.writer(f).writerow(test_list+[result])
         return (True, '드디어 끝났업')

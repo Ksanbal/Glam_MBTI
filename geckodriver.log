@@ -1,0 +1,124 @@
+1614676561415	geckodriver	INFO	Listening on 127.0.0.1:43903
+1614676562419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:83.0) Gecko/20100101 Firefox/83.0" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGjKSTx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:10366): GLib-GObject-CRITICAL **: 09:16:04.643: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:10385): GLib-GObject-CRITICAL **: 09:16:04.866: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614676567273	Marionette	INFO	Listening on port 42243
+1614676567362	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10447): GLib-GObject-CRITICAL **: 09:16:09.296: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1614676625402	geckodriver	INFO	Listening on 127.0.0.1:53601
+1614676626409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:83.0) Gecko/20100101 Firefox/83.0" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAvqPE0"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:10548): GLib-GObject-CRITICAL **: 09:17:07.477: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:10559): GLib-GObject-CRITICAL **: 09:17:07.577: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614676629825	Marionette	INFO	Listening on port 35573
+1614676629951	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10627): GLib-GObject-CRITICAL **: 09:17:11.288: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614676682558	geckodriver	INFO	Listening on 127.0.0.1:45635
+1614676683561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:83.0) Gecko/20100101 Firefox/83.0" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep99FDx"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:10724): GLib-GObject-CRITICAL **: 09:18:04.792: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:10735): GLib-GObject-CRITICAL **: 09:18:04.928: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614676688042	Marionette	INFO	Listening on port 34695
+1614676688106	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10804): GLib-GObject-CRITICAL **: 09:18:09.781: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614677004765	geckodriver	INFO	Listening on 127.0.0.1:44289
+1614677004774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:83.0) Gecko/20100101 Firefox/83.0" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePBlH38"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:10987): GLib-GObject-CRITICAL **: 09:23:26.073: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:11006): GLib-GObject-CRITICAL **: 09:23:26.341: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614677008695	Marionette	INFO	Listening on port 37547
+1614677008818	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11063): GLib-GObject-CRITICAL **: 09:23:30.297: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: https://was.livere.me/ad?consumerSeq=1020&livereSeq=50682&isMobile=false&site=http://16types.glam.am/test&uuid=057ef336-bfa3-49bb-b4d8-09327bc8e084, line 1: ReferenceError: $ is not defined
+1614731958747	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://was.livere.me/ad?consumerSeq=1020&livereSeq=50682&isMobile=false&site=http://16types.glam.am/test&uuid=057ef336-bfa3-49bb-b4d8-09327bc8e084, line 1: ReferenceError: $ is not defined
+1614753332801	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614772513704	geckodriver	INFO	Listening on 127.0.0.1:43165
+1614772514689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:83.0) Gecko/20100101 Firefox/83.0" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSYroQz"
+*** You are running in headless mode.
+[GFX1-]: glxtest: libGL.so.1 missing
+[GFX1-]: glxtest: libEGL missing
+
+(/usr/lib/firefox/firefox:18458): GLib-GObject-CRITICAL **: 11:55:17.894: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18472): GLib-GObject-CRITICAL **: 11:55:18.286: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:18543): GLib-GObject-CRITICAL **: 11:55:36.711: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1614772549738	Marionette	INFO	Listening on port 44747
+1614772551654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614772701177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614772838047	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614773022233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614773083155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614773360016	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614773823052	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614774092722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614774746051	Marionette	INFO	Stopped listening on port 44747
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2273,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2273","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:958","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:3598","chrome://marionette/content/server.js:despatch:297","chrome://marionette/content/server.js:execute:267","chrome://marionette/content/server.js:onPacket/<:240","chrome://marionette/content/server.js:onPacket:241","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: quit-application-granted
+JavaScript error: https://was.livere.me/ad?consumerSeq=1020&livereSeq=50682&isMobile=false&site=http://16types.glam.am/test&uuid=057ef336-bfa3-49bb-b4d8-09327bc8e084, line 1: ReferenceError: $ is not defined
+1614816901991	Marionette	INFO	Stopped listening on port 37547
